@@ -1,1 +1,2 @@
-# susu, short for "Start Up Set Up"
+# susu
+short for "Start Up Set Up"
