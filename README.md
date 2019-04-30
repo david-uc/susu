@@ -3,4 +3,5 @@
 
 * composer
 * Router: klein.php
-* Emailing: Mailjet
+* Emailing: Amazon SES
+* Database: MongoDB
